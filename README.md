@@ -36,7 +36,7 @@ To run the model on your local machine, follow these steps:
 - Clone the repository to your local machine.
 - Download the IMDB movie reviews dataset from the [Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/imdb_reviews)
 - Extract the dataset and place it in the data directory.
-- Open the sentiment_analysis.ipynb notebook in Jupyter Notebook or Google Colab.
+- Open the ```sentiment_analysis.ipynb``` notebook in Jupyter Notebook or Google Colab.
 - Run the notebook to train and test the model on the IMDB movie reviews dataset.
 - The final accuracy score and other performance metrics of the model will be displayed in the notebook.
 
